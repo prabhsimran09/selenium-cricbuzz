@@ -1,0 +1,957 @@
+[
+    {
+        "PlayerName": "Philippe",
+        "battingCareer": {
+            "T20I": {
+                "undefined": "4"
+            },
+            "IPL": {
+                "undefined": "1"
+            }
+        },
+        "bowlingCareer": {
+            "T20I": {
+                "MatchesPlayed": "5",
+                "NoofInningsBowled": "-",
+                "NoofBallsBowled": "-",
+                "NoofRunsConceded": "-",
+                "Wickets": "-",
+                "BestBowlinginInnings": "-",
+                "BestBowlinginMatch": "-",
+                "Economy": "-",
+                "BowlingAverage": "-",
+                "BowlingStrikeRate": "-",
+                "FiveWicketsinanInnings": "-",
+                "TenWicketsinanMatch": "-"
+            },
+            "IPL": {
+                "MatchesPlayed": "5",
+                "NoofInningsBowled": "-",
+                "NoofBallsBowled": "-",
+                "NoofRunsConceded": "-",
+                "Wickets": "-",
+                "BestBowlinginInnings": "-",
+                "BestBowlinginMatch": "-",
+                "Economy": "-",
+                "BowlingAverage": "-",
+                "BowlingStrikeRate": "-",
+                "FiveWicketsinanInnings": "-",
+                "TenWicketsinanMatch": "-"
+            }
+        }
+    },
+    {
+        "PlayerName": "Finch (c)",
+        "battingCareer": {
+            "Test": {
+                "undefined": "1"
+            },
+            "ODI": {
+                "undefined": "126"
+            },
+            "T20I": {
+                "undefined": "104"
+            },
+            "IPL": {
+                "undefined": "75"
+            }
+        },
+        "bowlingCareer": {
+            "Test": {
+                "MatchesPlayed": "5",
+                "NoofInningsBowled": "1",
+                "NoofBallsBowled": "12",
+                "NoofRunsConceded": "8",
+                "Wickets": "0",
+                "BestBowlinginInnings": "0/8",
+                "BestBowlinginMatch": "0/8",
+                "Economy": "4.0",
+                "BowlingAverage": "0.0",
+                "BowlingStrikeRate": "0.0",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "ODI": {
+                "MatchesPlayed": "132",
+                "NoofInningsBowled": "21",
+                "NoofBallsBowled": "284",
+                "NoofRunsConceded": "259",
+                "Wickets": "4",
+                "BestBowlinginInnings": "1/2",
+                "BestBowlinginMatch": "1/2",
+                "Economy": "5.47",
+                "BowlingAverage": "64.75",
+                "BowlingStrikeRate": "71.0",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "T20I": {
+                "MatchesPlayed": "71",
+                "NoofInningsBowled": "2",
+                "NoofBallsBowled": "12",
+                "NoofRunsConceded": "27",
+                "Wickets": "0",
+                "BestBowlinginInnings": "0/9",
+                "BestBowlinginMatch": "0/9",
+                "Economy": "13.5",
+                "BowlingAverage": "0.0",
+                "BowlingStrikeRate": "0.0",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "IPL": {
+                "MatchesPlayed": "87",
+                "NoofInningsBowled": "5",
+                "NoofBallsBowled": "43",
+                "NoofRunsConceded": "67",
+                "Wickets": "1",
+                "BestBowlinginInnings": "1/11",
+                "BestBowlinginMatch": "1/11",
+                "Economy": "9.35",
+                "BowlingAverage": "67.0",
+                "BowlingStrikeRate": "43.0",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            }
+        }
+    },
+    {
+        "PlayerName": "Wade (wk)",
+        "battingCareer": {
+            "Test": {
+                "undefined": "12"
+            },
+            "ODI": {
+                "undefined": "32"
+            },
+            "T20I": {
+                "undefined": "19"
+            },
+            "IPL": {
+                "undefined": "0"
+            }
+        },
+        "bowlingCareer": {
+            "Test": {
+                "MatchesPlayed": "36",
+                "NoofInningsBowled": "4",
+                "NoofBallsBowled": "30",
+                "NoofRunsConceded": "28",
+                "Wickets": "0",
+                "BestBowlinginInnings": "0/0",
+                "BestBowlinginMatch": "0/0",
+                "Economy": "5.6",
+                "BowlingAverage": "0.0",
+                "BowlingStrikeRate": "0.0",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "ODI": {
+                "MatchesPlayed": "94",
+                "NoofInningsBowled": "-",
+                "NoofBallsBowled": "-",
+                "NoofRunsConceded": "-",
+                "Wickets": "-",
+                "BestBowlinginInnings": "-",
+                "BestBowlinginMatch": "-",
+                "Economy": "-",
+                "BowlingAverage": "-",
+                "BowlingStrikeRate": "-",
+                "FiveWicketsinanInnings": "-",
+                "TenWicketsinanMatch": "-"
+            },
+            "T20I": {
+                "MatchesPlayed": "38",
+                "NoofInningsBowled": "-",
+                "NoofBallsBowled": "-",
+                "NoofRunsConceded": "-",
+                "Wickets": "-",
+                "BestBowlinginInnings": "-",
+                "BestBowlinginMatch": "-",
+                "Economy": "-",
+                "BowlingAverage": "-",
+                "BowlingStrikeRate": "-",
+                "FiveWicketsinanInnings": "-",
+                "TenWicketsinanMatch": "-"
+            },
+            "IPL": {
+                "MatchesPlayed": "3",
+                "NoofInningsBowled": "-",
+                "NoofBallsBowled": "-",
+                "NoofRunsConceded": "-",
+                "Wickets": "-",
+                "BestBowlinginInnings": "-",
+                "BestBowlinginMatch": "-",
+                "Economy": "-",
+                "BowlingAverage": "-",
+                "BowlingStrikeRate": "-",
+                "FiveWicketsinanInnings": "-",
+                "TenWicketsinanMatch": "-"
+            }
+        }
+    },
+    {
+        "PlayerName": "Maxwell",
+        "battingCareer": {
+            "Test": {
+                "undefined": "7"
+            },
+            "ODI": {
+                "undefined": "116"
+            },
+            "T20I": {
+                "undefined": "93"
+            },
+            "IPL": {
+                "undefined": "91"
+            }
+        },
+        "bowlingCareer": {
+            "Test": {
+                "MatchesPlayed": "7",
+                "NoofInningsBowled": "9",
+                "NoofBallsBowled": "462",
+                "NoofRunsConceded": "341",
+                "Wickets": "8",
+                "BestBowlinginInnings": "4/127",
+                "BestBowlinginMatch": "4/127",
+                "Economy": "4.43",
+                "BowlingAverage": "42.62",
+                "BowlingStrikeRate": "57.75",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "ODI": {
+                "MatchesPlayed": "116",
+                "NoofInningsBowled": "91",
+                "NoofBallsBowled": "2840",
+                "NoofRunsConceded": "2683",
+                "Wickets": "51",
+                "BestBowlinginInnings": "4/46",
+                "BestBowlinginMatch": "4/46",
+                "Economy": "5.67",
+                "BowlingAverage": "52.61",
+                "BowlingStrikeRate": "55.69",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "T20I": {
+                "MatchesPlayed": "72",
+                "NoofInningsBowled": "47",
+                "NoofBallsBowled": "648",
+                "NoofRunsConceded": "811",
+                "Wickets": "31",
+                "BestBowlinginInnings": "3/10",
+                "BestBowlinginMatch": "3/10",
+                "Economy": "7.51",
+                "BowlingAverage": "26.16",
+                "BowlingStrikeRate": "20.9",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "IPL": {
+                "MatchesPlayed": "82",
+                "NoofInningsBowled": "50",
+                "NoofBallsBowled": "546",
+                "NoofRunsConceded": "780",
+                "Wickets": "19",
+                "BestBowlinginInnings": "2/15",
+                "BestBowlinginMatch": "2/15",
+                "Economy": "8.57",
+                "BowlingAverage": "41.05",
+                "BowlingStrikeRate": "28.74",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            }
+        }
+    },
+    {
+        "PlayerName": "Stoinis",
+        "battingCareer": {
+            "ODI": {
+                "undefined": "37"
+            },
+            "T20I": {
+                "undefined": "13"
+            },
+            "IPL": {
+                "undefined": "34"
+            }
+        },
+        "bowlingCareer": {
+            "ODI": {
+                "MatchesPlayed": "45",
+                "NoofInningsBowled": "42",
+                "NoofBallsBowled": "1476",
+                "NoofRunsConceded": "1506",
+                "Wickets": "33",
+                "BestBowlinginInnings": "3/16",
+                "BestBowlinginMatch": "3/16",
+                "Economy": "6.12",
+                "BowlingAverage": "45.64",
+                "BowlingStrikeRate": "44.73",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "T20I": {
+                "MatchesPlayed": "28",
+                "NoofInningsBowled": "18",
+                "NoofBallsBowled": "254",
+                "NoofRunsConceded": "359",
+                "Wickets": "10",
+                "BestBowlinginInnings": "2/27",
+                "BestBowlinginMatch": "2/27",
+                "Economy": "8.48",
+                "BowlingAverage": "35.9",
+                "BowlingStrikeRate": "25.4",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "IPL": {
+                "MatchesPlayed": "46",
+                "NoofInningsBowled": "37",
+                "NoofBallsBowled": "545",
+                "NoofRunsConceded": "852",
+                "Wickets": "28",
+                "BestBowlinginInnings": "4/15",
+                "BestBowlinginMatch": "4/15",
+                "Economy": "9.38",
+                "BowlingAverage": "30.43",
+                "BowlingStrikeRate": "19.46",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            }
+        }
+    },
+    {
+        "PlayerName": "Agar",
+        "battingCareer": {
+            "Test": {
+                "undefined": "3"
+            },
+            "ODI": {
+                "undefined": "1"
+            },
+            "T20I": {
+                "undefined": "5"
+            }
+        },
+        "bowlingCareer": {
+            "Test": {
+                "MatchesPlayed": "4",
+                "NoofInningsBowled": "8",
+                "NoofBallsBowled": "874",
+                "NoofRunsConceded": "410",
+                "Wickets": "9",
+                "BestBowlinginInnings": "3/46",
+                "BestBowlinginMatch": "5/101",
+                "Economy": "2.81",
+                "BowlingAverage": "45.56",
+                "BowlingStrikeRate": "97.11",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "ODI": {
+                "MatchesPlayed": "14",
+                "NoofInningsBowled": "14",
+                "NoofBallsBowled": "714",
+                "NoofRunsConceded": "663",
+                "Wickets": "12",
+                "BestBowlinginInnings": "2/44",
+                "BestBowlinginMatch": "2/44",
+                "Economy": "5.57",
+                "BowlingAverage": "55.25",
+                "BowlingStrikeRate": "59.5",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "T20I": {
+                "MatchesPlayed": "32",
+                "NoofInningsBowled": "32",
+                "NoofBallsBowled": "648",
+                "NoofRunsConceded": "743",
+                "Wickets": "38",
+                "BestBowlinginInnings": "6/30",
+                "BestBowlinginMatch": "6/30",
+                "Economy": "6.88",
+                "BowlingAverage": "19.55",
+                "BowlingStrikeRate": "17.05",
+                "FiveWicketsinanInnings": "2",
+                "TenWicketsinanMatch": "0"
+            }
+        }
+    },
+    {
+        "PlayerName": "Mitchell Marsh",
+        "battingCareer": {
+            "Test": {
+                "undefined": "17"
+            },
+            "ODI": {
+                "undefined": "38"
+            },
+            "T20I": {
+                "undefined": "15"
+            },
+            "IPL": {
+                "undefined": "14"
+            }
+        },
+        "bowlingCareer": {
+            "Test": {
+                "MatchesPlayed": "32",
+                "NoofInningsBowled": "54",
+                "NoofBallsBowled": "2853",
+                "NoofRunsConceded": "1623",
+                "Wickets": "42",
+                "BestBowlinginInnings": "5/46",
+                "BestBowlinginMatch": "7/86",
+                "Economy": "3.41",
+                "BowlingAverage": "38.64",
+                "BowlingStrikeRate": "67.93",
+                "FiveWicketsinanInnings": "1",
+                "TenWicketsinanMatch": "0"
+            },
+            "ODI": {
+                "MatchesPlayed": "60",
+                "NoofInningsBowled": "57",
+                "NoofBallsBowled": "1949",
+                "NoofRunsConceded": "1803",
+                "Wickets": "49",
+                "BestBowlinginInnings": "5/33",
+                "BestBowlinginMatch": "5/33",
+                "Economy": "5.55",
+                "BowlingAverage": "36.8",
+                "BowlingStrikeRate": "39.78",
+                "FiveWicketsinanInnings": "1",
+                "TenWicketsinanMatch": "0"
+            },
+            "T20I": {
+                "MatchesPlayed": "20",
+                "NoofInningsBowled": "10",
+                "NoofBallsBowled": "120",
+                "NoofRunsConceded": "159",
+                "Wickets": "7",
+                "BestBowlinginInnings": "2/6",
+                "BestBowlinginMatch": "2/6",
+                "Economy": "7.95",
+                "BowlingAverage": "22.71",
+                "BowlingStrikeRate": "17.14",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "IPL": {
+                "MatchesPlayed": "21",
+                "NoofInningsBowled": "19",
+                "NoofBallsBowled": "319",
+                "NoofRunsConceded": "420",
+                "Wickets": "20",
+                "BestBowlinginInnings": "4/25",
+                "BestBowlinginMatch": "4/25",
+                "Economy": "7.9",
+                "BowlingAverage": "21.0",
+                "BowlingStrikeRate": "15.95",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            }
+        }
+    },
+    {
+        "PlayerName": "Jhye Richardson",
+        "battingCareer": {
+            "Test": {
+                "undefined": "0"
+            },
+            "ODI": {
+                "undefined": "0"
+            },
+            "T20I": {
+                "undefined": "1"
+            }
+        },
+        "bowlingCareer": {
+            "Test": {
+                "MatchesPlayed": "2",
+                "NoofInningsBowled": "4",
+                "NoofBallsBowled": "306",
+                "NoofRunsConceded": "123",
+                "Wickets": "6",
+                "BestBowlinginInnings": "3/26",
+                "BestBowlinginMatch": "5/45",
+                "Economy": "2.41",
+                "BowlingAverage": "20.5",
+                "BowlingStrikeRate": "51.0",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "ODI": {
+                "MatchesPlayed": "13",
+                "NoofInningsBowled": "13",
+                "NoofBallsBowled": "708",
+                "NoofRunsConceded": "690",
+                "Wickets": "24",
+                "BestBowlinginInnings": "4/26",
+                "BestBowlinginMatch": "4/26",
+                "Economy": "5.85",
+                "BowlingAverage": "28.75",
+                "BowlingStrikeRate": "29.5",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "T20I": {
+                "MatchesPlayed": "14",
+                "NoofInningsBowled": "14",
+                "NoofBallsBowled": "300",
+                "NoofRunsConceded": "426",
+                "Wickets": "13",
+                "BestBowlinginInnings": "2/31",
+                "BestBowlinginMatch": "2/31",
+                "Economy": "8.52",
+                "BowlingAverage": "32.77",
+                "BowlingStrikeRate": "23.08",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            }
+        }
+    },
+    {
+        "PlayerName": "Kane Richardson",
+        "battingCareer": {
+            "ODI": {
+                "undefined": "4"
+            },
+            "T20I": {
+                "undefined": "0"
+            },
+            "IPL": {
+                "undefined": "1"
+            }
+        },
+        "bowlingCareer": {
+            "ODI": {
+                "MatchesPlayed": "25",
+                "NoofInningsBowled": "25",
+                "NoofBallsBowled": "1312",
+                "NoofRunsConceded": "1240",
+                "Wickets": "39",
+                "BestBowlinginInnings": "5/68",
+                "BestBowlinginMatch": "5/68",
+                "Economy": "5.67",
+                "BowlingAverage": "31.79",
+                "BowlingStrikeRate": "33.64",
+                "FiveWicketsinanInnings": "1",
+                "TenWicketsinanMatch": "0"
+            },
+            "T20I": {
+                "MatchesPlayed": "26",
+                "NoofInningsBowled": "26",
+                "NoofBallsBowled": "534",
+                "NoofRunsConceded": "705",
+                "Wickets": "29",
+                "BestBowlinginInnings": "3/18",
+                "BestBowlinginMatch": "3/18",
+                "Economy": "7.92",
+                "BowlingAverage": "24.31",
+                "BowlingStrikeRate": "18.41",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "IPL": {
+                "MatchesPlayed": "14",
+                "NoofInningsBowled": "14",
+                "NoofBallsBowled": "317",
+                "NoofRunsConceded": "443",
+                "Wickets": "18",
+                "BestBowlinginInnings": "3/13",
+                "BestBowlinginMatch": "3/13",
+                "Economy": "8.38",
+                "BowlingAverage": "24.61",
+                "BowlingStrikeRate": "17.61",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            }
+        }
+    },
+    {
+        "PlayerName": "Southee",
+        "battingCareer": {
+            "Test": {
+                "undefined": "73"
+            },
+            "ODI": {
+                "undefined": "26"
+            },
+            "T20I": {
+                "undefined": "16"
+            },
+            "IPL": {
+                "undefined": "4"
+            }
+        },
+        "bowlingCareer": {
+            "Test": {
+                "MatchesPlayed": "77",
+                "NoofInningsBowled": "144",
+                "NoofBallsBowled": "17387",
+                "NoofRunsConceded": "8670",
+                "Wickets": "302",
+                "BestBowlinginInnings": "7/64",
+                "BestBowlinginMatch": "10/108",
+                "Economy": "2.99",
+                "BowlingAverage": "28.71",
+                "BowlingStrikeRate": "57.57",
+                "FiveWicketsinanInnings": "11",
+                "TenWicketsinanMatch": "1"
+            },
+            "ODI": {
+                "MatchesPlayed": "143",
+                "NoofInningsBowled": "141",
+                "NoofBallsBowled": "7195",
+                "NoofRunsConceded": "6557",
+                "Wickets": "190",
+                "BestBowlinginInnings": "7/33",
+                "BestBowlinginMatch": "7/33",
+                "Economy": "5.47",
+                "BowlingAverage": "34.51",
+                "BowlingStrikeRate": "37.87",
+                "FiveWicketsinanInnings": "3",
+                "TenWicketsinanMatch": "0"
+            },
+            "T20I": {
+                "MatchesPlayed": "79",
+                "NoofInningsBowled": "77",
+                "NoofBallsBowled": "1698",
+                "NoofRunsConceded": "2387",
+                "Wickets": "93",
+                "BestBowlinginInnings": "5/18",
+                "BestBowlinginMatch": "5/18",
+                "Economy": "8.43",
+                "BowlingAverage": "25.67",
+                "BowlingStrikeRate": "18.26",
+                "FiveWicketsinanInnings": "1",
+                "TenWicketsinanMatch": "0"
+            },
+            "IPL": {
+                "MatchesPlayed": "40",
+                "NoofInningsBowled": "40",
+                "NoofBallsBowled": "888",
+                "NoofRunsConceded": "1293",
+                "Wickets": "28",
+                "BestBowlinginInnings": "3/24",
+                "BestBowlinginMatch": "3/24",
+                "Economy": "8.74",
+                "BowlingAverage": "46.18",
+                "BowlingStrikeRate": "31.71",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            }
+        }
+    },
+    {
+        "PlayerName": "Santner",
+        "battingCareer": {
+            "Test": {
+                "undefined": "18"
+            },
+            "ODI": {
+                "undefined": "27"
+            },
+            "T20I": {
+                "undefined": "11"
+            },
+            "IPL": {
+                "undefined": "3"
+            }
+        },
+        "bowlingCareer": {
+            "Test": {
+                "MatchesPlayed": "23",
+                "NoofInningsBowled": "38",
+                "NoofBallsBowled": "3899",
+                "NoofRunsConceded": "1803",
+                "Wickets": "41",
+                "BestBowlinginInnings": "3/53",
+                "BestBowlinginMatch": "5/173",
+                "Economy": "2.77",
+                "BowlingAverage": "43.98",
+                "BowlingStrikeRate": "95.1",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "ODI": {
+                "MatchesPlayed": "75",
+                "NoofInningsBowled": "70",
+                "NoofBallsBowled": "3385",
+                "NoofRunsConceded": "2742",
+                "Wickets": "75",
+                "BestBowlinginInnings": "5/50",
+                "BestBowlinginMatch": "5/50",
+                "Economy": "4.86",
+                "BowlingAverage": "36.56",
+                "BowlingStrikeRate": "45.13",
+                "FiveWicketsinanInnings": "1",
+                "TenWicketsinanMatch": "0"
+            },
+            "T20I": {
+                "MatchesPlayed": "52",
+                "NoofInningsBowled": "51",
+                "NoofBallsBowled": "1046",
+                "NoofRunsConceded": "1287",
+                "Wickets": "60",
+                "BestBowlinginInnings": "4/11",
+                "BestBowlinginMatch": "4/11",
+                "Economy": "7.38",
+                "BowlingAverage": "21.45",
+                "BowlingStrikeRate": "17.43",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "IPL": {
+                "MatchesPlayed": "6",
+                "NoofInningsBowled": "6",
+                "NoofBallsBowled": "126",
+                "NoofRunsConceded": "147",
+                "Wickets": "6",
+                "BestBowlinginInnings": "2/13",
+                "BestBowlinginMatch": "2/13",
+                "Economy": "7.0",
+                "BowlingAverage": "24.5",
+                "BowlingStrikeRate": "21.0",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            }
+        }
+    },
+    {
+        "PlayerName": "Boult",
+        "battingCareer": {
+            "Test": {
+                "undefined": "30"
+            },
+            "ODI": {
+                "undefined": "6"
+            },
+            "T20I": {
+                "undefined": "0"
+            },
+            "IPL": {
+                "undefined": "1"
+            }
+        },
+        "bowlingCareer": {
+            "Test": {
+                "MatchesPlayed": "71",
+                "NoofInningsBowled": "135",
+                "NoofBallsBowled": "15819",
+                "NoofRunsConceded": "7875",
+                "Wickets": "281",
+                "BestBowlinginInnings": "6/30",
+                "BestBowlinginMatch": "10/80",
+                "Economy": "2.99",
+                "BowlingAverage": "28.02",
+                "BowlingStrikeRate": "56.3",
+                "FiveWicketsinanInnings": "8",
+                "TenWicketsinanMatch": "1"
+            },
+            "ODI": {
+                "MatchesPlayed": "93",
+                "NoofInningsBowled": "93",
+                "NoofBallsBowled": "5117",
+                "NoofRunsConceded": "4261",
+                "Wickets": "169",
+                "BestBowlinginInnings": "7/34",
+                "BestBowlinginMatch": "7/34",
+                "Economy": "5.0",
+                "BowlingAverage": "25.21",
+                "BowlingStrikeRate": "30.28",
+                "FiveWicketsinanInnings": "5",
+                "TenWicketsinanMatch": "0"
+            },
+            "T20I": {
+                "MatchesPlayed": "34",
+                "NoofInningsBowled": "34",
+                "NoofBallsBowled": "755",
+                "NoofRunsConceded": "1074",
+                "Wickets": "46",
+                "BestBowlinginInnings": "4/34",
+                "BestBowlinginMatch": "4/34",
+                "Economy": "8.54",
+                "BowlingAverage": "23.35",
+                "BowlingStrikeRate": "16.41",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "IPL": {
+                "MatchesPlayed": "48",
+                "NoofInningsBowled": "48",
+                "NoofBallsBowled": "1109",
+                "NoofRunsConceded": "1577",
+                "Wickets": "63",
+                "BestBowlinginInnings": "4/18",
+                "BestBowlinginMatch": "4/18",
+                "Economy": "8.53",
+                "BowlingAverage": "25.03",
+                "BowlingStrikeRate": "17.6",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            }
+        }
+    },
+    {
+        "PlayerName": "Chapman",
+        "battingCareer": {
+            "ODI": {
+                "undefined": "3"
+            },
+            "T20I": {
+                "undefined": "15"
+            }
+        },
+        "bowlingCareer": {
+            "ODI": {
+                "MatchesPlayed": "6",
+                "NoofInningsBowled": "-",
+                "NoofBallsBowled": "-",
+                "NoofRunsConceded": "-",
+                "Wickets": "-",
+                "BestBowlinginInnings": "-",
+                "BestBowlinginMatch": "-",
+                "Economy": "-",
+                "BowlingAverage": "-",
+                "BowlingStrikeRate": "-",
+                "FiveWicketsinanInnings": "-",
+                "TenWicketsinanMatch": "-"
+            },
+            "T20I": {
+                "MatchesPlayed": "27",
+                "NoofInningsBowled": "5",
+                "NoofBallsBowled": "72",
+                "NoofRunsConceded": "86",
+                "Wickets": "4",
+                "BestBowlinginInnings": "1/9",
+                "BestBowlinginMatch": "1/9",
+                "Economy": "7.17",
+                "BowlingAverage": "21.5",
+                "BowlingStrikeRate": "18.0",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            }
+        }
+    },
+    {
+        "PlayerName": "Ish Sodhi",
+        "battingCareer": {
+            "Test": {
+                "undefined": "7"
+            },
+            "ODI": {
+                "undefined": "4"
+            },
+            "T20I": {
+                "undefined": "5"
+            },
+            "IPL": {
+                "undefined": "0"
+            }
+        },
+        "bowlingCareer": {
+            "Test": {
+                "MatchesPlayed": "17",
+                "NoofInningsBowled": "31",
+                "NoofBallsBowled": "3186",
+                "NoofRunsConceded": "1992",
+                "Wickets": "41",
+                "BestBowlinginInnings": "4/60",
+                "BestBowlinginMatch": "7/79",
+                "Economy": "3.75",
+                "BowlingAverage": "48.59",
+                "BowlingStrikeRate": "77.71",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "ODI": {
+                "MatchesPlayed": "33",
+                "NoofInningsBowled": "32",
+                "NoofBallsBowled": "1620",
+                "NoofRunsConceded": "1508",
+                "Wickets": "43",
+                "BestBowlinginInnings": "4/58",
+                "BestBowlinginMatch": "4/58",
+                "Economy": "5.59",
+                "BowlingAverage": "35.07",
+                "BowlingStrikeRate": "37.67",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "T20I": {
+                "MatchesPlayed": "55",
+                "NoofInningsBowled": "53",
+                "NoofBallsBowled": "1137",
+                "NoofRunsConceded": "1524",
+                "Wickets": "69",
+                "BestBowlinginInnings": "4/28",
+                "BestBowlinginMatch": "4/28",
+                "Economy": "8.04",
+                "BowlingAverage": "22.09",
+                "BowlingStrikeRate": "16.48",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            },
+            "IPL": {
+                "MatchesPlayed": "8",
+                "NoofInningsBowled": "8",
+                "NoofBallsBowled": "181",
+                "NoofRunsConceded": "202",
+                "Wickets": "9",
+                "BestBowlinginInnings": "3/26",
+                "BestBowlinginMatch": "3/26",
+                "Economy": "6.7",
+                "BowlingAverage": "22.44",
+                "BowlingStrikeRate": "20.11",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            }
+        }
+    },
+    {
+        "PlayerName": "Glenn Phillips",
+        "battingCareer": {
+            "Test": {
+                "undefined": "1"
+            },
+            "T20I": {
+                "undefined": "24"
+            }
+        },
+        "bowlingCareer": {
+            "Test": {
+                "MatchesPlayed": "1",
+                "NoofInningsBowled": "-",
+                "NoofBallsBowled": "-",
+                "NoofRunsConceded": "-",
+                "Wickets": "-",
+                "BestBowlinginInnings": "-",
+                "BestBowlinginMatch": "-",
+                "Economy": "-",
+                "BowlingAverage": "-",
+                "BowlingStrikeRate": "-",
+                "FiveWicketsinanInnings": "-",
+                "TenWicketsinanMatch": "-"
+            },
+            "T20I": {
+                "MatchesPlayed": "22",
+                "NoofInningsBowled": "1",
+                "NoofBallsBowled": "12",
+                "NoofRunsConceded": "21",
+                "Wickets": "0",
+                "BestBowlinginInnings": "0/21",
+                "BestBowlinginMatch": "0/21",
+                "Economy": "10.5",
+                "BowlingAverage": "0.0",
+                "BowlingStrikeRate": "0.0",
+                "FiveWicketsinanInnings": "0",
+                "TenWicketsinanMatch": "0"
+            }
+        }
+    }
+]
